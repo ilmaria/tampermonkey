@@ -4,7 +4,9 @@
 // @version      0.1
 // @author       Ilmari
 // @match        http://myanimelist.net/animelist/Limpparipoju*
+// @match        https://myanimelist.net/animelist/Limpparipoju*
 // @match        http://myanimelist.net/mangalist/Limpparipoju*
+// @match        https://myanimelist.net/mangalist/Limpparipoju*
 // @grant        none
 // ==/UserScript==
 'use strict';
